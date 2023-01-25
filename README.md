@@ -22,7 +22,7 @@ YelpCamp is built using following tech stacks:<br>
 6)Edit page<br>
 <img width="948" alt="edit campground" src="https://user-images.githubusercontent.com/123208927/214587936-31da5de5-c780-436d-8fe8-26337b8d3bbc.PNG">
 7) create page<br>
-<img width="960" alt="create page of a new campground" src="https://user-images.githubusercontent.com/123208927/214586404-18787967-b069-4635-9fe0-d50fad672503.PNG">
+<img width="960" alt="create page of a new campground" src="https://user-images.githubusercontent.com/123208927/214586404-18787967-b069-4635-9fe0-d50fad672503.PNG"><br>
  
 ##Features
 1)Full featured camping application.<br>
